@@ -1,0 +1,61 @@
+name: timer
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+    
+  flutter_spinkit: ^5.2.1
+  http: ^1.2.1
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets: 
+      - assets/images/day.jpg
+      - assets/images/night.jpg
+      - assets/countries/argentina.png
+      - assets/countries/australia.png
+      - assets/countries/brazil.png
+      - assets/countries/canada.png
+      - assets/countries/china.png
+      - assets/countries/egypt.png
+      - assets/countries/france.png
+      - assets/countries/germany.png
+      - assets/countries/greece.png
+      - assets/countries/indonesia.png
+      - assets/countries/italy.png
+      - assets/countries/japan.png
+      - assets/countries/kenya.png
+      - assets/countries/malaysia.png
+      - assets/countries/mexico.png
+      - assets/countries/netherlands.png
+      - assets/countries/nigeria.png
+      - assets/countries/pakistan.png
+      - assets/countries/peru.png
+      - assets/countries/philippines.png
+      - assets/countries/poland.png
+      - assets/countries/russia.png
+      - assets/countries/singapore.png
+      - assets/countries/south_africa.png
+      - assets/countries/south_korea.png
+      - assets/countries/spain.png
+      - assets/countries/sweden.png
+      - assets/countries/switzerland.png
+      - assets/countries/thailand.png
+      - assets/countries/turkey.png
+      - assets/countries/uae.png
+      - assets/countries/uk.png
+      - assets/countries/usa.png
+      - assets/countries/zimbabwe.png
